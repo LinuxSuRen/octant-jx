@@ -18,14 +18,14 @@ require (
 	github.com/jenkins-x/jx-preview v0.0.138
 	github.com/jenkins-x/jx-secret v0.0.198
 	github.com/pkg/errors v0.9.1
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.7.0
 	github.com/tektoncd/pipeline v0.16.3
 	github.com/vmware-tanzu/octant v0.16.3
 	go.mozilla.org/sops v0.0.0-20190912205235-14a22d7a7060 // indirect
 	golang.org/x/build v0.0.0-20190111050920-041ab4dc3f9d // indirect
-	helm.sh/helm/v3 v3.3.4
-	k8s.io/api v0.19.4
-	k8s.io/apimachinery v0.19.4
+	helm.sh/helm/v3 v3.6.1
+	k8s.io/api v0.21.0
+	k8s.io/apimachinery v0.21.0
 	k8s.io/client-go v11.0.1-0.20190805182717-6502b5e7b1b5+incompatible
 	sigs.k8s.io/yaml v1.2.0
 )
